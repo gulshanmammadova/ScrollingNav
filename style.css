@@ -1,0 +1,137 @@
+*{
+    padding: 0;
+    margin: 0;    
+}
+#nvbr
+{width: 100%;
+    text-align: right;
+   
+    background-color: #000000;
+    position: fixed;
+}
+.navbar{
+    background-color: #212529;
+    color: rgba(255, 255, 255, 0.75);
+    margin-right: 1rem;
+
+    text-decoration: none;
+   
+} 
+
+#first
+{ text-align: center;
+    background-color: #0D6EFD;
+    background-color: #0D6EFD;
+    color: #FFFFFF;
+    padding: 152px 0px 96px;
+}
+.firsth{
+color: #FFFFFF;
+font-size: 40px;
+margin: 0px 0px 8px;
+}
+.scrlh{
+    color: #FFFFFF;
+    font-size: 20px;
+    margin: 0px 0px 16px;
+}
+.btm{
+    font-weight: 400;
+    line-height: 1.5;
+    color: #000000;
+    font-size: 20px;
+    background-color: #F8F9FA;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: #F8F9FA;
+    border-radius: 6px;
+    
+}
+#about{
+    width: 50%;
+    background-color: #FFFFFF;
+    margin:4rem auto;
+  
+   
+
+   
+
+}
+.p{margin: 0px 0px 16px;
+    color: #212529;
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+#about{
+   text-align: center;
+    color: #212529;
+    font-size: 34px;
+    padding: 4rem;
+ 
+}
+.about1{ line-height: 25px;
+    margin-bottom: 20px;
+    text-align: left;
+    color: #212529;
+    font-size: 30px;
+    padding: 0;
+}
+.list{ line-height: 25px;
+    list-style-type: disc;
+   font-size: 18px;
+    text-align: left;
+}
+
+#services{
+    line-height: 25px;
+    background-color:#F8F9FA ;
+    padding: 5rem;
+    text-align: center;
+    
+   
+}
+#services h2{
+    text-align: left;
+    font-size: 30px;
+    padding: 20px;
+    margin: auto;
+    width: 55%;
+  
+}
+#services p
+{ 
+   text-align: left; 
+   margin: auto;
+   font-size: 20px;
+   width: 55%;
+   padding:  0 5rem;
+
+}
+#contactus h2{
+    text-align: left;
+    font-size: 30px;
+    padding: 20px;
+    margin: auto;
+    width: 55%;
+  
+}
+#contactus p
+{ 
+   text-align: left; 
+   margin: auto;
+   font-size: 20px;
+ width: 55%;
+   padding: 2rem;
+
+}
+#end{
+    background-color: #000000;
+    color:white;
+    text-align: center;
+    padding: 1rem;
+    font-size: 16px;
+}
+
